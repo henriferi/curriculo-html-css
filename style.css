@@ -87,23 +87,13 @@ body{
     margin-top: 36px;
 }
 .link-projetos{
+    text-decoration: none;
     margin: 6px;
-}
-.link-projetos :hover{
-    color: red;
 }
 .link-projetos:visited{
-    color: black;
+    color: blue;
 }
-.link-projetos{
-    margin: 6px;
-}
-.link-projetos :hover{
-    color: red;
-}
-.link-projetos :visited{
-    color: black;
-}
+
 #estrutura{
     height: 100%;
     width: 200%;
